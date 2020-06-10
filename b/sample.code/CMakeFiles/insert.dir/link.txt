@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/insert.dir/sqlite/insert.c.o  -o insert ../mylib/libsqlite.a -lpthread -ldl 

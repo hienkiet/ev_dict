@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/search.dir/sqlite/search.c.o  -o search ../mylib/libsqlite.a -lpthread -ldl 

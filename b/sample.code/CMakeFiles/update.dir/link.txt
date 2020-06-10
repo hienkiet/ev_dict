@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/update.dir/sqlite/update.c.o  -o update ../mylib/libsqlite.a -lpthread -ldl 

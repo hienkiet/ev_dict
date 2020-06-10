@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/selectall.dir/sqlite/selectall.c.o  -o selectall ../mylib/libsqlite.a -lpthread -ldl 

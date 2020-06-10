@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/delete.dir/sqlite/delete.c.o  -o delete ../mylib/libsqlite.a -lpthread -ldl 

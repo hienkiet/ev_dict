@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hp/EV-Dictionary/mylib/sqlite3.h
+stdarg.h
+-
+
+/home/hp/EV-Dictionary/sample.code/sqlite/add.c
+../../mylib/sqlite3.h
+/home/hp/EV-Dictionary/mylib/sqlite3.h
+stdio.h
+-
+
