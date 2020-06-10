@@ -3,11 +3,14 @@
 ## Mô tả
 Bài tập lớn môn C Advanced kỳ 20192
 
-## Thành viên nhóm
-- Trần Hữu Bình    
-- Thiều Ngọc Hiền Kiệt    
-- Nguyễn Anh Đức	    
-- Phạm Công Minh
+
 
 ## Hệ điều hành
 - Ubuntu
+
+Cach chay 
+- Bat Terminal
+- cd b (neu chua co thu muc b thi mkdir b --> cd b)
+- cmake ..
+- make 
+- Lam nhu video
